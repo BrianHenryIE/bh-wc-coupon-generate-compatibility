@@ -1,0 +1,23 @@
+wp post meta list 16
++---------+----------------------------+------------+
+| post_id | meta_key                   | meta_value |
++---------+----------------------------+------------+
+| 16      | discount_type              | fixed_cart |
+| 16      | coupon_amount              | 0          |
+| 16      | individual_use             | no         |
+| 16      | product_ids                |            |
+| 16      | exclude_product_ids        |            |
+| 16      | usage_limit                |            |
+| 16      | usage_limit_per_user       |            |
+| 16      | limit_usage_to_x_items     |            |
+| 16      | expiry_date                |            |
+| 16      | free_shipping              | no         |
+| 16      | exclude_sale_items         | no         |
+| 16      | product_categories         | a:0:{}     |
+| 16      | exclude_product_categories | a:0:{}     |
+| 16      | minimum_amount             |            |
+| 16      | maximum_amount             |            |
+| 16      | customer_email             | a:0:{}     |
+| 16      | usage_count                | 0          |
++---------+----------------------------+------------+
+

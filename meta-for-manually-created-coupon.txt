@@ -1,0 +1,31 @@
+wp post meta list 14
++---------+------------------------------------+-------------------------------+
+| post_id | meta_key                           | meta_value                    |
++---------+------------------------------------+-------------------------------+
+| 14      | _edit_lock                         | 1634853506:1                  |
+| 14      | _edit_last                         | 1                             |
+| 14      | discount_type                      | fixed_cart                    |
+| 14      | coupon_amount                      | 0                             |
+| 14      | individual_use                     | no                            |
+| 14      | usage_limit                        | 0                             |
+| 14      | usage_limit_per_user               | 0                             |
+| 14      | limit_usage_to_x_items             | 0                             |
+| 14      | usage_count                        | 0                             |
+| 14      | date_expires                       |                               |
+| 14      | free_shipping                      | no                            |
+| 14      | exclude_sale_items                 | no                            |
+| 14      | _wjecf_products_and                | no                            |
+| 14      | _wjecf_categories_and              | no                            |
+| 14      | _wjecf_allow_cart_excluded         | no                            |
+| 14      | _wjecf_first_purchase_only         | no                            |
+| 14      | _wjecf_is_auto_coupon              | no                            |
+| 14      | _wjecf_apply_silently              | no                            |
+| 14      | _wjecf_free_product_ids            | 10                            |
+| 14      | _wjecf_multiply_free_products      | no                            |
+| 14      | _wjecf_bogo_matching_products      | no                            |
+| 14      | _wjecf_must_select_free_product    | no                            |
+| 14      | _wjecf_select_free_product_message | Please choose your free gift: |
+| 14      | _wjecf_allow_enqueue               | yes                           |
+| 14      | _wjecf_custom_fields_and           | no                            |
+| 14      | _wjecf_apply_discount_to           | all                           |
++---------+------------------------------------+-------------------------------+
